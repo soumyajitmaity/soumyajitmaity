@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soumyajitmaity
-- 👀 I’m interested in web development, opensource 
+- 👀 I’m interested in web development and Machine Learning
 - 🌱 I’m currently learning python, flask, django and react as frontend
 
 
